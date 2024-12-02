@@ -20,7 +20,8 @@
 <p>We are a dynamic community of investment and technology enthusiasts. Join us to stay up-to-date with the latest trends, share ideas, and collaborate on exciting projects!</p>
 
 <h4> Architecture : </h4>
-![image](https://github.com/user-attachments/assets/021f086b-836e-4d1c-8db1-84bbdd479679)
+
+<img  src="https://github.com/user-attachments/assets/021f086b-836e-4d1c-8db1-84bbdd479679" style="width:1000px" />
 
 
 
@@ -38,6 +39,7 @@ Rejoignez la Communauté Walmix
 Nous sommes une communauté dynamique de passionnés d'investissement et de technologie. Rejoignez-nous pour contribuer à la rester à jour avec les dernières tendances, partager des idées et collaborer sur des projets passionnants.!
 
 <h4> Architecture : </h4>
-![image](https://github.com/user-attachments/assets/021f086b-836e-4d1c-8db1-84bbdd479679)
+
+<img  src="https://github.com/user-attachments/assets/021f086b-836e-4d1c-8db1-84bbdd479679" style="width:1000px" />
 
 
